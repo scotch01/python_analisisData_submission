@@ -1,3 +1,7 @@
+# Description
+
+Ini merupakan project akhir dari modul Belajar Analisis Data dengan Python dari learning path Data Science Dicoding x IDCamp 2024.
+
 # Cara Menjalankan Dashboard
 
 Dashboard ini menggunakan dataset Bike Sharing yang diolah menggunakan Streamlit.
